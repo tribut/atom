@@ -4,6 +4,8 @@
   'end': 'editor:move-to-end-of-screen-line'
   'shift-home': 'editor:select-to-first-character-of-line'
   'shift-end': 'editor:select-to-end-of-line'
+  'alt-up': 'editor:select-larger-syntax-node'
+  'alt-down': 'editor:select-smaller-syntax-node'
 
 'atom-text-editor:not([mini])':
   # Atom Specific
